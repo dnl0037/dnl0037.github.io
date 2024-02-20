@@ -21,7 +21,7 @@ repository               : "dnl0037/dnl0037.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilep.jpg"
+  avatar           : "profile.png"
   name             : "Daniel Atoche Garay"
   pronouns         : # example: "she/her"  
   bio              : "Python Software Developer | Data Analyst"
