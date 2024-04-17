@@ -4,13 +4,10 @@ excerpt: "A FastAPI-based API for a social media platform with features like use
 collection: portfolio
 ---
 
-To check out the project documentation, [click here](https://dnl0037.github.io/FastAPI-API/)
+## Project Overview
 
-To check out the source code, [click here](https://github.com/dnl0037/FastAPI-API)
+This project is a FastAPI-based API for a social media platform, offering features such as user authentication, post creation, and voting on posts. The project documentation is hosted on GitHub Pages. To view the documentation, [click here](https://dnl0037.github.io/FastAPI-API/). If you're interested in exploring the source code, you can find it [here](https://github.com/dnl0037/FastAPI-API/).
 
-A FastAPI-based API for a social media platform with features like user authentication, post creation, and voting on posts. It utilizes PostgreSQL for data storage, Alembic for database migrations, and includes unit tests with pytest.
-
-The most important folders in this project are:
 
 - **app**: This folder contains the following Python files: config.py, database.py, main.py, models.py, oauth2.py, schemas.py, and utils.py.
     - In addition, there's a subfolder named routers with login.py, users.py, votes.py, and posts.py. Each of these routers handles specific API endpoints.
