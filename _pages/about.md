@@ -6,32 +6,56 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Hi there! 👋
-
-I'm Daniel Atoche, a passionate programmer and data analyst with a knack for turning raw data into insights and code into solutions. 🚀
+# Daniel Atoche
 
 ## About Me
 
-🎓 **Education:** Currently pursuing a degree in Computer Science at Instituto Tecnológico de Costa Rica.
+<div style="text-align: justify;">
+  Hello! I'm Daniel Atoche, a passionate programmer and data scientist with experience in various technologies and tools. I specialize in developing Machine Learning algorithms and building robust web applications.
+</div>
 
-🎓 **Google Certification:** Recently completed the Google Advanced Data Analytics certification, diving deep into the world of data analysis and unlocking new insights into data-driven decision-making. 📊💡
+## Experience and Key Skills
 
-💻 **Currently Working On:** I'm currently diving deep into the world of data analysis and machine learning, working on exciting projects that involve unraveling insights from data and building predictive models. Check out some of my latest projects:
+### Machine Learning Algorithm Development
+- Utilized Python, SQL, scikit-learn, TensorFlow, and Keras to develop machine learning models.
+- Implemented image processing techniques and time series forecasting in Machine Learning projects.
+- Built and validated supervised and unsupervised models like KMeans, linear and logistic regression, random forests, and XGBoost.
+- Optimized hyperparameters and effectively communicated results.
 
-- **Waze:** Crafting a machine learning churn prediction model to help Waze keep users on the right track! 🚗💨
-- **TikTok:** Developing a machine learning model to identify claims and opinions in videos, because understanding content is key in the digital world! 📱💬
-- **Automatidata:** Building a machine learning regression model to estimate taxi fares in the Big Apple, because nobody likes surprises when it comes to pricing! 🚕💰
+### Web Development and APIs
+- Created APIs using FastAPI and developed web applications using Django.
+- Managed databases in PostgreSQL and deployed applications on Heroku, Docker, and DigitalOcean.
 
-## Let's Collaborate!
+### Additional Technologies
+- Proficient in Matplotlib, numpy, pandas, Colab, Hadoop, Apache Spark, Kafka, Google Cloud, and Snowflake.
+- Familiarity with Convolutional Neural Networks (CNNs).
 
-🌟 **I'm Looking to Collaborate With:** Like-minded individuals passionate about leveraging technology to make a meaningful impact. Whether it's crunching numbers, building apps, or diving into AI, let's team up and make magic happen! ✨
+### Data Visualization
+- Proficient in data visualization tools such as Power BI and Tableau.
+- Created interactive dashboards and reports to visualize insights from data.
 
-## My Toolbox
+### Cloud Platforms and Data Warehousing
+- Experience with Google Cloud Platform (GCP), IBM, Microsoft Azure, and Snowflake for cloud computing and data warehousing solutions.
+- Managed data pipelines, storage, and processing on cloud platforms.
 
-⚙️ **Technical Skills:** Python, Django, FastAPI, PostgreSQL, SQL, HTML & CSS, Docker, Heroku, CI/CD, Machine Learning, Deep Learning, and more! Always learning and expanding my toolkit to tackle new challenges head-on. 💡
+## Featured Projects [Under Construction 🚧]
+
+### Churn Prediction System for Waze
+- Developed a Machine Learning model to predict user churn in the Waze application.
+
+### Opinion Identification in TikTok Videos
+- Implemented a machine learning model to identify claims and opinions in TikTok videos.
+
+### Taxi Fare Estimation for Automatidata
+- Built a regression model to estimate taxi fares in New York City.
+
+## Education
+- Instituto Tecnológico de Costa Rica: Bachelor of Science in Computer Science.
 
 ## Get in Touch
 
-📫 **Contact Me:** Feel free to reach out and connect! Whether it's discussing a project, sharing ideas, or just geeking out over the latest tech trends, I'm always up for a chat. Let's connect and make awesome things happen! 🚀
+<div style="text-align: center;">
+  📫 **Contact Me:** Feel free to reach out and connect! Whether it's discussing a project, sharing ideas, or just geeking out over the latest tech trends, I'm always up for a chat. Let's connect and make awesome things happen! 🚀
+</div>
 
 
